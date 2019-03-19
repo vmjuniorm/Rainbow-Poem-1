@@ -38,7 +38,9 @@ Purple
 Pink
 Unicorn
 Pony
-The Pony is the rainbow.
+roses are red
+violets are blue
+
 
 These are the colours of the rainbow.
 And the unicorn and Pony are really cool animals
