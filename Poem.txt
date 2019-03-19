@@ -13,14 +13,6 @@ These are the colours that make up 12% of the rainbow.
 And the unicorn.Pony.Red
 1
 1
-1
-1
-1
-1
-1
-1
-1
-1
 
 Purple
 the blinding Pink
@@ -38,9 +30,10 @@ Purple
 Pink
 Unicorn
 Pony
+Black is a shade.
+
 roses are red
 violets are blue
-
 
 These are the colours of the rainbow.
 And the unicorn and Pony are really cool animals
