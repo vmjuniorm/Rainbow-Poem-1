@@ -8,6 +8,7 @@ Blue
 Indigo
 Yellow
 Red
+RGBB
 These are the colours of the rainbow.
 And the unicorn.
 Purple
