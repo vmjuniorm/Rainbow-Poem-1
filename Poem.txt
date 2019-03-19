@@ -14,6 +14,8 @@ Purple
 Pink
 Unicorn
 Pony
+roses are red
+violets are blue
 
 These are the colours of the rainbow.
 And the unicorn and Pony
